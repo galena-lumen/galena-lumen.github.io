@@ -1,8 +1,10 @@
 # Site settings
 title: Galena Lumen
 email: galena.lumen@inbox.com
-description: > # this means to ignore newlines until "baseurl:"
-  Philosophy, economics, politics, whatever.
+subtitle: >
+  El que sabe no habla, el que habla no sabe - Lao Tzu
+description: >
+  Filosofía, economía, política, lo que sea.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://galena-lumen.github.io" # the base hostname & protocol for your site
 

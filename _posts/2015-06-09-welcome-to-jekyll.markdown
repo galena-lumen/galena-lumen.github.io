@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+author: Batman
 date:   2015-06-09 18:47:22
 categories: jekyll update
 ---
