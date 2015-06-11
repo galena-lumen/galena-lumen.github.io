@@ -6,6 +6,8 @@
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
+    //background-image: url("/minigalena.jpg");
+
     // Positioning context for the mobile navigation icon
     position: relative;
 }
@@ -16,10 +18,27 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    //background-color: rgba(0, 0, 0, 0.5);
 
     &,
     &:visited {
         color: $grey-color-dark;
+        // color: #ffffff;
+    }
+}
+
+.site-subtitle {
+    font-size: 20px;
+    line-height: 56px;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    margin-left: 2px;
+    float: left;
+
+    &,
+    &:visited {
+        color: $grey-color;
+        //color: #ffffff;
     }
 }
 
@@ -156,13 +175,17 @@
     }
 }
 
-
-
 /**
  * Page content
  */
 .page-content {
     padding: $spacing-unit 0;
+    background-image: url("/minigalena.jpg");
+    background-size: cover;
+
+    .wrapper {
+      background-color: rgba(255, 255, 255, 0.9);
+    }
 }
 
 .page-heading {
