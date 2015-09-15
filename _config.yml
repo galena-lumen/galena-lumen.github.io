@@ -1,10 +1,10 @@
 # Site settings
 title: Galena Lumen
-email: galena.lumen@protonmail.com
+email: galena.lumen@protonmail.ch
 subtitle: >
-  El que sabe no habla, el que habla no sabe - Lao Tzu
+  Strictly speaking, God does not love or hate - Baruch Spinoza
 description: >
-  Filosofía, economía, política, lo que sea.
+  Philosophy and emergence.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://galena-lumen.github.io" # the base hostname & protocol for your site
 
